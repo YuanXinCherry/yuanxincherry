@@ -1,5 +1,5 @@
 <h1 align="center">
- Hi, I'm <a href="https://yuanxincherry.github.io/" target="_blank">Xin Yuan<span style="font-size: 60%;">(袁鑫)</span> 👋</a> <br>
+ Hi, I'm <a href="https://yuanxincherry.github.io/" target="_blank">Xin Yuan<span style="font-size: 60%;"> (袁鑫)</span> 👋</a> <br>
 	<img alt="GitHub User's stars" src="https://img.shields.io/github/stars/yuanxincherry">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/yuanxincherry">
 	<!--<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Yadan_Luo">-->
