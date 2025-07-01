@@ -25,7 +25,16 @@
 
 <h3>🏠 <b>About Me</b></h3>
 <p>
-I am a <strong>Senior Lecturer and ARC DECRA Fellow</strong> at the School of Electrical Engineering and Computer Science, The University of Queensland (UQ), Australia. I received my PhD from UQ in 2021 and was previously honored with the <strong>Google PhD Fellowship</strong> and the <strong>ICT Young Achiever Award</strong>. My research focuses on <b>test-time generalization and open-world 2D/3D perception</b>. Currently, I lead the <a href="https://yuanxincherry.github.io/uqmm/" target="_blank">UQ Multimedia Lab (UQMM Lab)</a>, dedicated to advancing data-centric learning paradigms, scalable foundation models, and real-world deployment for smart robotics, and autonomous driving systems.
+I am currently a Lecturer at School of Computer Science and Technology, Wuhan University of Science and Technology, China.
+
+My main research interests lie in object re-identification and image retrieval.
+<!--I am a computer vision researcher with research interests in object re-identification and image retrieval.-->
+
+I received my Ph.D. degree from School of Computer Science and Technology, Wuhan University of Science and Technology, China, in 2023, supervised by <a href="http://vai-lab.com/member/XuXin.html" target="_blank">Prof. Xin Xu</a>, <a href="http://59.68.177.189/gmis/xkjsb/yjsdsfc.aspx?id=96422" target="_blank">Prof. Kai Zhang</a>, and <a href="https://wangzwhu.github.io/home/" target="_blank">Prof. Zheng Wang</a>.
+
+I am also a member in <a href="http://vai-lab.com/" target="_blank">Visual Artificial Intelligence Lab</a>.
+
+Before my Ph.D. study, I received my B.E. degree from School of Computer Science and Technology, Wuhan University of Science and Technology, China, in 2018.
 </p>
 
 <p>
