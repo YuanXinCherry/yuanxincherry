@@ -42,12 +42,12 @@ Before my Ph.D. study, I received my B.E. degree from School of Computer Science
 </p>
 
 <p align="center">
-  <a href="mailto:y.luo@uq.edu.au" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" height="30px" style="margin-bottom:-4px"></a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=3IfL11AAAAAJ&hl=en" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <a href="mailto:xinyuan@wust.edu.au" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" height="30px" style="margin-bottom:-4px"></a>&nbsp;
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Cp5JZsoAAAAJ" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
   <a href="https://github.com/yuanxincherry" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/github.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://twitter.com/Yadan_Luo" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/x--v1.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/yadan-luo-755751132" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30px" style="margin-bottom:-3px"></a>
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fyuanxincherry.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fyuanxincherry.github.io%2F&label=Visitors&labelColor=%232ccce4&countColor=%230158f9" /></a>
+  <a href="https://twitter.com/yuanxincherry" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/x--v1.png" height="30px" style="margin-bottom:-3px"></a>&nbsp;
+  <!--<a href="https://www.linkedin.com/in/yadan-luo-755751132" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" height="30px" style="margin-bottom:-3px"></a>
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fyuanxincherry.github.io%2F"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fyuanxincherry.github.io%2F&label=Visitors&labelColor=%232ccce4&countColor=%230158f9" /></a>-->
 </p>
 
 
