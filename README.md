@@ -52,12 +52,34 @@ Before my Ph.D. study, I received my B.E. degree from School of Computer Science
 
 
 
-## 📑 Selected Publications
-* **[TPAMI'25]** Open-CRB: Towards Open World Active Learning for 3D Object Detection, [Paper](https://arxiv.org/abs/2310.10391v2), [Code](https://github.com/yuanxincherry/CRB-active-3Ddet/tree/Open-CRB)
-* **[ICLR'25 Oral]** MOS: Model Synergy for Test-Time Adaptation on LiDAR-Based 3D Object Detection, [Project](https://openreview.net/pdf?id=Y6aHdDNQYD)
-* **[IJCV'24]** In Search of Lost Online Test-time Adaptation: A Survey, [Project](https://github.com/Jo-wang/OTTA_ViT_survey)
-* **[ICLR'23 Spotlight]** Exploring Active 3D Object Detection from a Generalization Perspective, [Project](https://github.com/yuanxincherry/CRB-active-3Ddet)
-* **[ICCV'23]** KECOR: Kernel Coding Rate Maximization for Active 3D Object Detection, [Project](https://github.com/yuanxincherry/KECOR-active-3Ddet)
+## 📑 Top News
+<div>
+        <ul>
+                   <li><p>[Jun 2025] One paper was accepted by IEEE SMC'25. </p></li>
+		   <li><p>[Jun 2025] Invited to serve as an expert reviewer for IEEE T-KDE. </p></li>
+                   <li><p>[May 2025] Invited to serve as an expert reviewer for IEEE GRSL. </p></li>
+		   <li><p>[May 2025] I receive the honor of "National Model of Self-improvement". </p></li>
+		   <li><p>[May 2025] Invited to serve as an expert reviewer for IEEE SMC'25. </p></li>
+		   <li><p>[May 2025] One paper was accepted by Sensors. </p></li>
+		   <li><p>[Apr 2025] One paper was accepted by ICMR'25. </p></li>
+		   <li><p>[Apr 2025] Invited to serve as an expert reviewer for ICIC'25. </p></li>
+		   <li><p>[Apr 2025] Invited to serve as a guest editor for Sensors. </p></li>
+		   <li><p>[Mar 2025] Invited to serve as an expert reviewer for IJCAI'25. </p></li>
+		   <li><p>[Mar 2025] Invited to serve as an expert reviewer for MultiMedia Tools and Applications (MTAP). </p></li>
+		   <li><p>[Feb 2025] Invited to serve as an editorial board member for The British Journal of Sports Medicine (BJSM). </p></li>
+		   <li><p>[Feb 2025] Invited to serve as an expert reviewer for NeurIPS'25. </p></li>
+		   <li><p>[Feb 2025] Invited to serve as an expert reviewer for ACM MM'25. </p></li>
+		   <li><p>[Feb 2025] Invited to serve as an expert reviewer for ICIP'25. </p></li>
+		   <li><p>[Feb 2025] One publication was selected for the "Best Researcher Award". </p></li>
+		   <li><p>[Jan 2025] One paper was accepted by Sensors. </p></li>
+		   <li><p>[Jan 2025] Invited to serve as an expert reviewer for Transactions on Machine Learning Research (TMLR). </p></li>
+		   <li><p>[Jan 2025] One project was approved by Nature Science Foundation of Hubei Province. </p></li>
+		   <li><p>[Jan 2025] Invited to serve as an academic committee for CCF YOCSEF (Wuhan). </p></li>
+        </ul>
+		See more news <a href="https://yuanxincherry.github.io/news.html">here</a>.
+	</div>
+
+<div>
 
 
 ---
