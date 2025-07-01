@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/UQMM%20Lab-Explore-2b9348?style=for-the-badge&logo=academia" alt="UQMM Lab Badge"/>
   </a>
   &nbsp;
-  <a href="https://scholar.google.com/citations?user=3IfL11AAAAAJ&hl=en" target="_blank">
+  <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Cp5JZsoAAAAJ" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-9cf?style=for-the-badge&logo=googlescholar" alt="Google Scholar Badge"/>
   </a>
 </p>
