@@ -55,6 +55,8 @@ Before my Ph.D. study, I received my B.E. degree from School of Computer Science
 ## 📑 Top News
 <div>
         <ul>
+		   <li><p>[Jul 2025] Invited to serve as an expert reviewer for AAAI'26. </p></li>
+		   <li><p>[Jul 2025] Invited to serve as an expert reviewer for PRCV'25. </p></li> 
                    <li><p>[Jun 2025] One paper was accepted by IEEE SMC'25. </p></li>
 		   <li><p>[Jun 2025] Invited to serve as an expert reviewer for IEEE T-KDE. </p></li>
                    <li><p>[May 2025] Invited to serve as an expert reviewer for IEEE GRSL. </p></li>
